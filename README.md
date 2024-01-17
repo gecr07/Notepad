@@ -1,6 +1,6 @@
 # Notepad
 
-Todo lo que tengo pendiente por revisar
+Todo lo que tengo pendiente por revisar  maquina Tally
 
 
 ```ruby
