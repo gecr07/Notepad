@@ -1300,3 +1300,8 @@ Dir found: /_controltemplates/_layouts/1033/_layouts/1033/audience_view.aspx/ - 
 
 
 ```
+Se encontro un usuario 
+
+```
+TALLY\Administrator
+```
